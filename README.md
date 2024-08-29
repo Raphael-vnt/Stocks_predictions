@@ -6,7 +6,6 @@ Prédictions de la valeur d'action journalière de Société Générale sur une 
 
 NOTES : Ce modèle a simplement pour but l'implémentation de la structure LSTM mais n'a PAS pour but d'engendrer un profit. Au mieux le modèle fait aussi bien qu'un modèle naïf prédisant le dernier close price. 
 
-Résulats similaires à un modèle naïf prédisant
 ![png](stock_predictions_files/stock_predictions_80_0.png)
     
 
